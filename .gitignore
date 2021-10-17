@@ -97,6 +97,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+CreateMergedSimaux.bat
 
 # Chutzpah Test files
 _Chutzpah*
