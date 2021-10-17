@@ -44,6 +44,6 @@ Select menu item 1 (or Win+Ctrl+Home) to position the PopOuts automatically.
 when PopOuting you should make sure that the content is reasonably correct regarding the aspect ratio. Don’t have too big edges at the top, bottom or sides.
 you may need to download Microsoft.NET 4 from Microsoft for the program to work. First test if it starts for you, if not, please download Microsoft.NET 4.
 
-Für jene von euch, die sich für den Source code nicht interessieren, liegen die ausführbaren Binaries im gleichnamigen Ordner.
+For those of you not interested in the source code, the executable binaries are in the folder of the same name.
 
 I would be glad about feedback from you.
