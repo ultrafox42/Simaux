@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsfsConnect", "MsfsConnect\MsfsConnect.csproj", "{917C646E-C11F-48AB-9537-86A14DF929AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simaux", "Simaux\Simaux.csproj", "{98EB988E-3F29-4F03-8C99-C0244A9A8802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917C646E-C11F-48AB-9537-86A14DF929AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917C646E-C11F-48AB-9537-86A14DF929AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917C646E-C11F-48AB-9537-86A14DF929AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917C646E-C11F-48AB-9537-86A14DF929AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EB988E-3F29-4F03-8C99-C0244A9A8802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EB988E-3F29-4F03-8C99-C0244A9A8802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EB988E-3F29-4F03-8C99-C0244A9A8802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EB988E-3F29-4F03-8C99-C0244A9A8802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E708AF4A-27E8-4772-B4D9-2CEF0C613C23}
+	EndGlobalSection
+EndGlobal
